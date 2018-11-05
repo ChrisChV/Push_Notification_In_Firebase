@@ -1,0 +1,7 @@
+{
+    "to": "/topics/test",
+    "data": {
+         "title":"Test",
+         "message": "This is a Firebase Cloud Messaging Topic Message!", 
+    }
+}
